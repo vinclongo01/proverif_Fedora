@@ -1,4 +1,4 @@
-# Comprehensive Guide to Installing ProVerif on Fedora
+# Comprehensive Guide for installing ProVerif on Fedora
 
 Here’s a step-by-step guide tailored for setting up ProVerif on your Fedora system:
 
